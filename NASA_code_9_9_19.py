@@ -100,10 +100,11 @@ for i in ind1:
             im4[i,k,:] = [255,128,128]
         elif grey_pixel[i,k] == 0:
             im4[i,k,:] = im4[i,k,:]
-plt.imshow(im4,'gray')
-plt.show()
 
 im5 = cv2.cvtColor(im4,cv2.COLOR_LAB2RGB)
+plt.title('Output Image')
 plt.imshow(im5,'gray')
+plt.xticks([])
+plt.yticks([])
 plt.show()
 
