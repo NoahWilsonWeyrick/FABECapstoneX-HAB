@@ -101,7 +101,7 @@ for i in ind1:
         elif grey_pixel[i,k] == 0:
             im4[i,k,:] = im4[i,k,:]
 
-im5 = cv2.cvtColor(im4,cv2.COLOR_LAB2RGB)
+im5 = cv2.cvtColor(im4,cv2.COLOR_LAB2BGR)
 plt.title('Output Image')
 plt.imshow(im5,'gray')
 plt.xticks([])
