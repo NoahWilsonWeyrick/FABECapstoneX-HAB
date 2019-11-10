@@ -19,6 +19,11 @@ K=np.array([[2414.9662,0.0,1474.9274],[0.0,2422.8611,1983.4191],[0.0,0.0,1.0]])
 D=np.array([[0.27388],[-0.570613],[0.602927],[-0.379167]])
 balance = 1
 im = cv2.imread('i15.jpg')
+plt.subplot(121)
+plt.title('Original Image')
+plt.imshow(im,'gray')
+plt.xticks([])
+plt.yticks([])
 dim1 = im.shape[:2][::-1]
 dim2 = dim1
 dim3 = dim1
@@ -28,5 +33,9 @@ new_K = cv2.fisheye.estimateNewCameraMatrixForUndistortRectify(scaled_K,D,dim2,n
 map1,map2 = cv2.fisheye.initUndistortRectifyMap(scaled_K,D,np.eye(3),new_K,dim3,cv2.CV_16SC2)
 im = cv2.remap(im,map1,map2,interpolation=cv2.INTER_LINEAR,borderMode=cv2.BORDER_CONSTANT)
 im = cv2.cvtColor(im,cv2.COLOR_RGB2BGR)
+plt.subplot(122)
+plt.title('Undistorted Image')
 plt.imshow(im,'gray')
+plt.xticks([])
+plt.yticks([])
 plt.show()
