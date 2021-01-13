@@ -30,4 +30,21 @@ correction_2_7_20.py and ... :
 ![alt text](https://github.com/NoahWilsonWeyrick/FABECapstoneX-HAB/blob/master/Plant%20Movement%201.gif)
 ![alt text](https://github.com/NoahWilsonWeyrick/FABECapstoneX-HAB/blob/master/Plant%20Movement%202.gif)
 
+2_10_20.py:
+aa
 
+![alt text](https://github.com/NoahWilsonWeyrick/FABECapstoneX-HAB/blob/master/2_10_20.jpg)
+
+3_7_20.py:
+aa
+
+![alt text](https://github.com/NoahWilsonWeyrick/FABECapstoneX-HAB/blob/master/Code%20Set%20Up.jpg)
+![alt text](https://github.com/NoahWilsonWeyrick/FABECapstoneX-HAB/blob/master/Triggering%20Mechanism.jpg)
+![alt text](https://github.com/NoahWilsonWeyrick/FABECapstoneX-HAB/blob/master/Capture.JPG)
+
+3_29_20.py:
+aa
+
+![alt text](https://github.com/NoahWilsonWeyrick/FABECapstoneX-HAB/blob/master/Stereo%20Vision.jpg)
+![alt text](https://github.com/NoahWilsonWeyrick/FABECapstoneX-HAB/blob/master/Stereo%20Vision%201.gif)
+![alt text](https://github.com/NoahWilsonWeyrick/FABECapstoneX-HAB/blob/master/Stereo%20Vision%202.gif)
