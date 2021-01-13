@@ -16,9 +16,9 @@ This code utilizes the canny edge detection algorithm to find the outline of the
 NASA_code_pre_prototype.py :
 This code undistorts an image of plants taken with a wide angle lens. The code was used to prove that wide angle lenses can reduce the needed camera height to capture all of the plants.
 
-![alt text](https://github.com/NoahWilsonWeyrick/FABECapstoneX-HAB/blob/master/Lens Angle.jpg)
+![alt text](https://github.com/NoahWilsonWeyrick/FABECapstoneX-HAB/blob/master/Lens%20Angle.jpg)
 
-![alt text](https://github.com/NoahWilsonWeyrick/FABECapstoneX-HAB/blob/master/Wide Angle Prototype.jpg)
+![alt text](https://github.com/NoahWilsonWeyrick/FABECapstoneX-HAB/blob/master/Wide%20Angle%20Prototype.jpg)
 
 ![alt text](https://github.com/NoahWilsonWeyrick/FABECapstoneX-HAB/blob/master/pre_prototype.png)
 
