@@ -4,7 +4,7 @@ Biological Engineering Capstone Project (Ohio State)
 NASA_code_end_of_summer.py :
 This code includes two parts: one part finds plant canopy area through k means clustering, and the second part uses coloration analysis to remove background pixels.
 
-<img src="https://github.com/NoahWilsonWeyrick/FABECapstoneX-HAB/blob/master/End%20of%20Summer.png" width="1000" height="702")
+![alt text](https://github.com/NoahWilsonWeyrick/FABECapstoneX-HAB/blob/master/End%20of%20Summer.png)
 
 
 NASA_code_9_9_19.py : 
