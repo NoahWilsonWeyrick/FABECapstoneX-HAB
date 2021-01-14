@@ -1,5 +1,7 @@
 # FABECapstoneX-HAB
 Biological Engineering Capstone Project (Ohio State) 
+
+The goal of the software development aspect of this project was to utilize computer vision techniques to differentiate between the plants and the background in images taken for determining plant canopy area, plant canopy perimeter, plant height, and plant movement. All of these characteristics can be used to estimate plant biomass growth as well as plant watering needs.  
  
 NASA_code_end_of_summer.py :
 This code includes two parts: one part finds plant canopy area through k means clustering, and the second part uses coloration analysis to remove background pixels.
@@ -22,7 +24,7 @@ This code undistorts an image of plants taken with a wide angle lens. The code w
 
  
 11_12_19.py:
-This code allows the comparison between 4 different image analysis methods. The best method for plant canopy area and perimeter detection can be determined y compering the 4 different output with precise by-hand measurements. Different background coloration in the plant growth chamber can make different approaches better than others.
+This code allows the comparison between 4 different image analysis methods. The best method for plant canopy area and perimeter detection can be determined by comparing the 4 different output with precise by-hand measurements. Different background coloration in the plant growth chamber can make different approaches better than others.
 
 ![alt text](https://github.com/NoahWilsonWeyrick/FABECapstoneX-HAB/blob/master/Color%20Space%20Analysis%20Comparison.JPG)
 
